@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Premium Animal Feeds",
+        "category": "AnimalFeeds",
+        "price": 2500,
+        "stock": 100,
+        "image": "C:/xampp/htdocs/AgriNurture/products/AnimalFeeds/feed1.jpg",
+        "description": "High-quality animal feed for livestock."
+      },
+      {
+        "id": 2,
+        "name": "Cattle Booster Feed",
+        "category": "AnimalFeeds",
+        "price": 3000,
+        "stock": 80,
+        "image": "C:/xampp/htdocs/AgriNurture/products/AnimalFeeds/feed2.jpg",
+        "description": "Special formula to enhance cattle growth."
+      },
+      {
+        "id": 3,
+        "name": "Organic Fertilizer",
+        "category": "Fertilizers",
+        "price": 1800,
+        "stock": 50,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Fertilizers/fertilizer1.jpg",
+        "description": "100% organic fertilizer for better crop yield."
+      },
+      {
+        "id": 4,
+        "name": "Nitrogen-Rich Fertilizer",
+        "category": "Fertilizers",
+        "price": 2200,
+        "stock": 40,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Fertilizers/fertilizer2.jpg",
+        "description": "Boosts soil fertility with high nitrogen content."
+      },
+      {
+        "id": 5,
+        "name": "Super Growth Pesticide",
+        "category": "Pesticides",
+        "price": 3200,
+        "stock": 75,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Pesticides/pesticide1.jpg",
+        "description": "Protects crops from harmful pests."
+      },
+      {
+        "id": 6,
+        "name": "Eco-Friendly Pesticide",
+        "category": "Pesticides",
+        "price": 2800,
+        "stock": 60,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Pesticides/pesticide2.jpg",
+        "description": "Effective against pests while safe for the environment."
+      },
+      {
+        "id": 7,
+        "name": "Hybrid Maize Seeds",
+        "category": "Seeds",
+        "price": 500,
+        "stock": 200,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Seeds/seed1.jpg",
+        "description": "High-yield hybrid maize seeds."
+      },
+      {
+        "id": 8,
+        "name": "Drought-Resistant Sorghum Seeds",
+        "category": "Seeds",
+        "price": 600,
+        "stock": 150,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Seeds/seed2.jpg",
+        "description": "Sorghum seeds that perform well in dry climates."
+      },
+      {
+        "id": 9,
+        "name": "Multi-Purpose Farming Tool",
+        "category": "Tools",
+        "price": 4500,
+        "stock": 30,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Tools/tool1.jpg",
+        "description": "Durable and versatile farming tool."
+      },
+      {
+        "id": 10,
+        "name": "Handheld Weeder",
+        "category": "Tools",
+        "price": 1200,
+        "stock": 45,
+        "image": "C:/xampp/htdocs/AgriNurture/products/Tools/tool2.jpg",
+        "description": "Easy-to-use tool for removing weeds."
+      }
+    ]
+  }
+  
