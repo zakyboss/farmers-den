@@ -1,5 +1,15 @@
 .container {
-    background-color: green;
-    height: 200px;
-  }
-  
+  background-color: green;
+  height: 80px;
+  margin-left: 200px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Moves text to the right */
+  padding: 0 20px; /* Adds spacing from the edges */
+  border: 4px solid white; /* Banner-like border */
+  color: white; /* Makes text white */
+  font-weight: bold;
+  font-size: 18px;
+  gap: 20px; /* Space between items */
+}
