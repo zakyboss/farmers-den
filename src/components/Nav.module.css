@@ -1,0 +1,9 @@
+.nav {
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Align items vertically */
+  gap: 20px; /* Space between buttons */
+  background-color: #222; /* Dark background for nav */
+  padding: 15px;
+  border-radius: 10px; /* Rounded edges for nav bar */
+}
